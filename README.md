@@ -6,13 +6,13 @@ Consiste en una página HTML estructurada con etiquetas semánticas, donde compa
 
 ## 📄 Archivo principal
 
-- `tarea_html_01.html`  
-Ubicado en la carpeta `tareas/tarea_html_01/`.
+- `Index.html`  
+Ubicado en la carpeta `tareas/Tarea.HTML/`.
 
 ## 🚀 Cómo visualizarlo
 
 1. Abrir el proyecto en Visual Studio Code
-2. Hacer clic derecho sobre el archivo `tarea_html_01.html`
+2. Hacer clic derecho sobre el archivo `Index.html`
 3. Seleccionar **"Open with Live Server"**
 
 ## 👩‍💻 Tecnologías utilizadas
@@ -25,4 +25,4 @@ Ubicado en la carpeta `tareas/tarea_html_01/`.
 ## ✍️ Autora
 
 **Yamila**  
-Comisión Miércoles – Profesor Lírico
+Comisión Miércoles – Profesor Matias
